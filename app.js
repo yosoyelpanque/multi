@@ -2367,9 +2367,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // - PESTAÑA AJUSTES (Renderizado y Acciones)
     // - EDITOR DE CROQUIS
     // - FUNCIÓN initialize()
-});
-// app.js (Parte 3 de 3)
-
     // =========================================================================
     // 14. PESTAÑA REPORTES (Selects y Filtros)
     // =========================================================================
